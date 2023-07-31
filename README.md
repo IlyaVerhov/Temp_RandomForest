@@ -1,2 +1,2 @@
-# Temp_RandomForest
-Applying the RF method to climate predictions
+# Temp dataframe with Random Forest
+Applying the Random Forest method to climate predictions
